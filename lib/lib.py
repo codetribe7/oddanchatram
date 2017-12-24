@@ -17,12 +17,19 @@ def links_to_scan(oddanchatram_url):
             links_to_scan.append(href)
     return links_to_scan
 
+def place_name(file_name):
+    places = ["oddanchatram", "dindigul"]
+    for place in places:
+        if place in file_name:
+            return place
+
 def file_path_from_url(url):
     link = url
     links_split_by_slash = link.split('/')
     file_name = links_split_by_slash[3]
+    place = place_name(file_name)
     year = file_name.split('-')[-1][-4:]
-    directory = "./data/oddanchatram/"+year+"/"
+    directory = "./data/"+place+"/"+year+"/"
     if not os.path.exists(directory):
         os.makedirs(directory)
     file_path = directory + file_name +".csv"
