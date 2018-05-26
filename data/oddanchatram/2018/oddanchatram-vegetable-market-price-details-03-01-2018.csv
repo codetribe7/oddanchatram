@@ -1,61 +1,61 @@
-Commodity, Weight in Kg, Price in Rs
-Lemon/எலுமிச்சை, 1, 20 to 35
-Tomato/தக்காளி 1st Quality, 1, 9 to 10
-Tomato/தக்காளி 2nd Quality, 1, –
-Small Onion/சிறிய வெங்காயம், 1, 50 to 120
-Bellary/பெல்லாரி, 1, 40 to 45
-Beans/பீன்ஸ் 1st Quality, 1, 10 to 20
-Beans/பீன்ஸ் 2nd Quality, 1, –
-Carrot/கேரட் 1st Quality, 1, 40 to 50
-Carrot/கேரட் 2nd Quality, 1, 35 to 45
-Lady Finger/வெண்டைக்காய், 1, 15
-Tree Drumstick/மரம் முருங்கை, 1, –
-Plant Drumstick/முருங்கை, 1, 60 to 90
-Beans/அவரை ஒட்டு, 1, 16 to 28
-Green Pulses/பச்சை பயிறு, 1, 13
-White Pulses/வெள்ளை பயிறு, 1, 8
-Zucchini/சுரைக்காய், 1, 2
-Beetroot/பீட்ரூட், 1, 8
-White Pumpkin/வெள்ளை பூசணிக்காய், 1, 2 to 3
-Sambar Pumpkin/சாம்பார் பூசணிக்காய், 1, 4.50
-Kalla Manga/கள்ள மாங்காய், 1, 100 to 120
-OOrutu Manga/உருட்டு மாங்காய், 1, 90 to 100
-Potato/உருளைக்கிழங்கு 1st Quality, 1, 12 to 15
-Potato/உருளைக்கிழங்கு 2nd Quality, 1, 10
-Coconut/தேங்காய் 1st Quality, 1, 40 to 48
-Coconut/தேங்காய் 2nd Quality, 1, 35 to 43
-Green Chilli/பச்சை மிளகாய், 1, 10 to 12
-Cauliflower/காலிஃபிளவர் 1st Quality, 1, 10 to 15
-Cauliflower/காலிஃபிளவர் 2nd Quality, 1, –
-Green Brinjal/கத்தரிக்காய் பச்சை, 1, 15 to 20
-Blue Brinjal/கத்தரிக்காய் நீலம், 1, 10
-Banana Thar/வாழை தார், 1, 25 to 30
-Curry Leaves/கறிவேப்பிலை, 1, 15 to 20
-Gourd/புடலங்காய் 1st Quality, 1, 3
-Gourd/புடலங்காய் 2nd Quality, 1, –
-Coriander/கொத்தமல்லி 1st Quality, 1, 10 to 15
-Coriander/கொத்தமல்லி 2nd Quality, 1, –
-Radish/முள்ளங்கி 1st Quality, 1, 10 to 15
-Radish/முள்ளங்கி 2nd Quality, 1, –
-Ginger/இஞ்சி, 1, 25 to 30
-Butter Beans/பட்டர் பீன்ஸ், 1, 80 to 100
-Cabbage/முட்டை கோஸ், 1, 15 to 20
-Green Peas/பச்சை பட்டாணி, 1, 40 to 50
-Bitter Gourd/பாகற்காய், 1, 12 to 15
-Nookal/நூக்கல், 1, 10 to 15
-Chaw Chaw/சவ்சவ், 1, 5 to 6
-Kovakkai/கோவக்காய், 1, 27
-Cluster Beans/கொத்தவரங்காய், 1, 10 to 15
-Gooseberry/நெல்லிக்காய், 1, 25 to 35
-Narthangai/நார்த்தங்காய், 1, 25 to 30
-Cucumber/வெள்ளரிக்காய், 1, 10
-Garlic/வெள்ளை பூண்டு, 1, 25 to 70
-Gourd/பீர்க்கங்காய், 1, 10 to 15
-Small Tuber/சிறு கிழங்கு, 1, 40 to 45
-Colocasia/சேப்பங்கிழங்கு, 1, 35
-Soya beans/சோயா பீன்ஸ், 1, 80
-Butter Soya/பட்டர் சோயா, 1, 80
-Senai Kilangu/சேனை கிழங்கு, 1, 20 to 25
-Karunai Kilangu/கருணைக்கிழங்கு, 1, 15 to 20
-Drumstick beans/முருங்கை பீன்ஸ், 1, 15
-Mangai Inji/மாங்காய் இஞ்சி, 1, 30 to 35
+,Commodity, Weight in Kg, Price in Rs,date_of_purchase
+0,Lemon/எலுமிச்சை,1, 20 to 35,2018-01-03
+1,Tomato/தக்காளி 1st Quality,1, 9 to 10,2018-01-03
+2,Tomato/தக்காளி 2nd Quality,1, –,2018-01-03
+3,Small Onion/சிறிய வெங்காயம்,1, 50 to 120,2018-01-03
+4,Bellary/பெல்லாரி,1, 40 to 45,2018-01-03
+5,Beans/பீன்ஸ் 1st Quality,1, 10 to 20,2018-01-03
+6,Beans/பீன்ஸ் 2nd Quality,1, –,2018-01-03
+7,Carrot/கேரட் 1st Quality,1, 40 to 50,2018-01-03
+8,Carrot/கேரட் 2nd Quality,1, 35 to 45,2018-01-03
+9,Lady Finger/வெண்டைக்காய்,1, 15,2018-01-03
+10,Tree Drumstick/மரம் முருங்கை,1, –,2018-01-03
+11,Plant Drumstick/முருங்கை,1, 60 to 90,2018-01-03
+12,Beans/அவரை ஒட்டு,1, 16 to 28,2018-01-03
+13,Green Pulses/பச்சை பயிறு,1, 13,2018-01-03
+14,White Pulses/வெள்ளை பயிறு,1, 8,2018-01-03
+15,Zucchini/சுரைக்காய்,1, 2,2018-01-03
+16,Beetroot/பீட்ரூட்,1, 8,2018-01-03
+17,White Pumpkin/வெள்ளை பூசணிக்காய்,1, 2 to 3,2018-01-03
+18,Sambar Pumpkin/சாம்பார் பூசணிக்காய்,1, 4.50,2018-01-03
+19,Kalla Manga/கள்ள மாங்காய்,1, 100 to 120,2018-01-03
+20,OOrutu Manga/உருட்டு மாங்காய்,1, 90 to 100,2018-01-03
+21,Potato/உருளைக்கிழங்கு 1st Quality,1, 12 to 15,2018-01-03
+22,Potato/உருளைக்கிழங்கு 2nd Quality,1, 10,2018-01-03
+23,Coconut/தேங்காய் 1st Quality,1, 40 to 48,2018-01-03
+24,Coconut/தேங்காய் 2nd Quality,1, 35 to 43,2018-01-03
+25,Green Chilli/பச்சை மிளகாய்,1, 10 to 12,2018-01-03
+26,Cauliflower/காலிஃபிளவர் 1st Quality,1, 10 to 15,2018-01-03
+27,Cauliflower/காலிஃபிளவர் 2nd Quality,1, –,2018-01-03
+28,Green Brinjal/கத்தரிக்காய் பச்சை,1, 15 to 20,2018-01-03
+29,Blue Brinjal/கத்தரிக்காய் நீலம்,1, 10,2018-01-03
+30,Banana Thar/வாழை தார்,1, 25 to 30,2018-01-03
+31,Curry Leaves/கறிவேப்பிலை,1, 15 to 20,2018-01-03
+32,Gourd/புடலங்காய் 1st Quality,1, 3,2018-01-03
+33,Gourd/புடலங்காய் 2nd Quality,1, –,2018-01-03
+34,Coriander/கொத்தமல்லி 1st Quality,1, 10 to 15,2018-01-03
+35,Coriander/கொத்தமல்லி 2nd Quality,1, –,2018-01-03
+36,Radish/முள்ளங்கி 1st Quality,1, 10 to 15,2018-01-03
+37,Radish/முள்ளங்கி 2nd Quality,1, –,2018-01-03
+38,Ginger/இஞ்சி,1, 25 to 30,2018-01-03
+39,Butter Beans/பட்டர் பீன்ஸ்,1, 80 to 100,2018-01-03
+40,Cabbage/முட்டை கோஸ்,1, 15 to 20,2018-01-03
+41,Green Peas/பச்சை பட்டாணி,1, 40 to 50,2018-01-03
+42,Bitter Gourd/பாகற்காய்,1, 12 to 15,2018-01-03
+43,Nookal/நூக்கல்,1, 10 to 15,2018-01-03
+44,Chaw Chaw/சவ்சவ்,1, 5 to 6,2018-01-03
+45,Kovakkai/கோவக்காய்,1, 27,2018-01-03
+46,Cluster Beans/கொத்தவரங்காய்,1, 10 to 15,2018-01-03
+47,Gooseberry/நெல்லிக்காய்,1, 25 to 35,2018-01-03
+48,Narthangai/நார்த்தங்காய்,1, 25 to 30,2018-01-03
+49,Cucumber/வெள்ளரிக்காய்,1, 10,2018-01-03
+50,Garlic/வெள்ளை பூண்டு,1, 25 to 70,2018-01-03
+51,Gourd/பீர்க்கங்காய்,1, 10 to 15,2018-01-03
+52,Small Tuber/சிறு கிழங்கு,1, 40 to 45,2018-01-03
+53,Colocasia/சேப்பங்கிழங்கு,1, 35,2018-01-03
+54,Soya beans/சோயா பீன்ஸ்,1, 80,2018-01-03
+55,Butter Soya/பட்டர் சோயா,1, 80,2018-01-03
+56,Senai Kilangu/சேனை கிழங்கு,1, 20 to 25,2018-01-03
+57,Karunai Kilangu/கருணைக்கிழங்கு,1, 15 to 20,2018-01-03
+58,Drumstick beans/முருங்கை பீன்ஸ்,1, 15,2018-01-03
+59,Mangai Inji/மாங்காய் இஞ்சி,1, 30 to 35,2018-01-03
