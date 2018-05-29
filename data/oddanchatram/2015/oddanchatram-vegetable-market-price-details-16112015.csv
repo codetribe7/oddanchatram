@@ -1,29 +1,29 @@
-Commodity, Weight in Kg, Price in Rs
-Belt Beans / Avarai Belt, 1, 25
-Beans Kolee / Avarai Kolee, 1, 22
-Avarai ottu, 1, –
-Beans, 1, 22
-Beetroot, 1, 8
-Bellary / Big Onion, 1, 40
-Cauliflower, 1 Flower, 13
-Small Onion / Chinna Vengayam, 1, 50
-Chaw Chaw, 1, 12
-Disco Brinjal / Kaththari kai Disco, 1, 12
-Green Brinjal / Kaththari Kai Pachai, 1, 12
-Cluster Beans / Kothavarai, 1, 18
-Samba Chilli / Milagai Samba, 1, 20
-Round Chilli / Milagai Urundai, 1, 25
-Radish / Mullangi, 1, 6
-Drumstick / Murungai Chedi, 1, 100
-Drumstick / Murungai Maram, 1, 100
-Nelli Kai, 1, 30
-Bitter Gourd / Pakar kai, 1, 10
-Perkangkai, 1, 10
-Snake Guard / Pudalai, 1, 6
-Red Pumpkin / Red Pusanikkai, 1, 6
-Sambar Vellari, 1, 7
-Bottle gourd / Suraikai, 1, 4
-Tomato / Thakkali, 1, 50
-Thatta payaru, 1, 20
-Lady’s Finger / Venda Kai, 1, 20
-Lemon / Elumbichai, 1, 70
+,Commodity, Weight in Kg, Price in Rs,date_of_purchase
+0,Belt Beans / Avarai Belt, 1, 25,2015-11-16
+1,Beans Kolee / Avarai Kolee, 1, 22,2015-11-16
+2,Avarai ottu, 1, –,2015-11-16
+3,Beans, 1, 22,2015-11-16
+4,Beetroot, 1, 8,2015-11-16
+5,Bellary / Big Onion, 1, 40,2015-11-16
+6,Cauliflower, 1 Flower, 13,2015-11-16
+7,Small Onion / Chinna Vengayam, 1, 50,2015-11-16
+8,Chaw Chaw, 1, 12,2015-11-16
+9,Disco Brinjal / Kaththari kai Disco, 1, 12,2015-11-16
+10,Green Brinjal / Kaththari Kai Pachai, 1, 12,2015-11-16
+11,Cluster Beans / Kothavarai, 1, 18,2015-11-16
+12,Samba Chilli / Milagai Samba, 1, 20,2015-11-16
+13,Round Chilli / Milagai Urundai, 1, 25,2015-11-16
+14,Radish / Mullangi, 1, 6,2015-11-16
+15,Drumstick / Murungai Chedi, 1, 100,2015-11-16
+16,Drumstick / Murungai Maram, 1, 100,2015-11-16
+17,Nelli Kai, 1, 30,2015-11-16
+18,Bitter Gourd / Pakar kai, 1, 10,2015-11-16
+19,Perkangkai, 1, 10,2015-11-16
+20,Snake Guard / Pudalai, 1, 6,2015-11-16
+21,Red Pumpkin / Red Pusanikkai, 1, 6,2015-11-16
+22,Sambar Vellari, 1, 7,2015-11-16
+23,Bottle gourd / Suraikai, 1, 4,2015-11-16
+24,Tomato / Thakkali, 1, 50,2015-11-16
+25,Thatta payaru, 1, 20,2015-11-16
+26,Lady’s Finger / Venda Kai, 1, 20,2015-11-16
+27,Lemon / Elumbichai, 1, 70,2015-11-16

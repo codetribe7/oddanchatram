@@ -1,51 +1,51 @@
-Commodity, Weight in Kg, Price in Rs
-Lemon, 1, 67
-Tomato/Thakkali 1st Quality, 1, 15 to20
-Tomato/Thakkali 2nd Quality, 1, 10
-Small Onion, 1, 100 to120
-Bellary (Big Onion), 1, 12 to13
-Beans 1st Quality, –, 40 to45
-Beans 2nd Quality, 1, 35 to40
-Carrot 1st Quality, 1, 65 to70
-Carrot 2nd Quality, 1, 60 to65
-Vendai Kai/Lady Finger, 1, 26
-Maram Murungai, 1, 14
-Chedi Murungai, 1, 17
-Avarai Ottu, 1, 25 to65
-Pachai Payaru, 1, 15
-Vellai Payaru, 1, 25
-Suraikai, 1, 5
-Beetroot, 1, 25
-Sunami Sambar, 1, 15 to10
-Pusanikai, 1, 5 to6
-Kalla Manga/Mango, 1, 9
-Orutu Manga/Mango, 1, 11
-Potato 1st Quality, 1, 10 to15
-Potato 2nd Quality, 1, 10
-Coconut 1st Quality, –, 26
-Coconut 2nd Quality, –, 21
-Green Chilli, 1, 45 to50
-Cauliflower 1st Quality, –, 25 to30
-Cauliflower 2nd Quality, –, 20 to25
-Katharikai Pachai, 1, 30 to40
-Katharikai ootha, 1, 25
-Valai Thar, –, 26
-Karuveppilai/Curry Leaf, 1 Kattu, 30 to25
-Pudalangai/Snake gourd 1st Quality, 1, 15 to20
-Pudalangai/Snake gourd 2nd Quality, 1, 10 to15
-Kothamalli 1st Quality, 1 kattu, 250
-Kothamalli 2nd Quality, 1 kattu, 240
-Mullangi 1st Quality, 1, 40
-Mullangi 2nd Quality, 1, 35
-Inji/Ginger, 1, 40
-Butter Beans, 1, 180 to200
-Mutta Kose, 1, 15 to20
-Pachai Pattani, 1, 180 to200
-Pakarkai, 1, 45 to50
-Nookal, 1, 60
-Chaw Chaw, 1, 25
-Kovakkai, 1, 15 to20
-Kothavarangai, 1, 15
-Nellikai, 1, 40
-Narthangai, 1, 45
-Vellarikai, 1, 18
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Commodity, Weight in Kg, Price in Rs,date_of_purchase
+0,0,0,0,0,Lemon, 1, 67,2017- 6-7
+1,1,1,1,1,Tomato/Thakkali 1st Quality, 1, 15 to20,2017- 6-7
+2,2,2,2,2,Tomato/Thakkali 2nd Quality, 1, 10,2017- 6-7
+3,3,3,3,3,Small Onion, 1, 100 to120,2017- 6-7
+4,4,4,4,4,Bellary (Big Onion), 1, 12 to13,2017- 6-7
+5,5,5,5,5,Beans 1st Quality, –, 40 to45,2017- 6-7
+6,6,6,6,6,Beans 2nd Quality, 1, 35 to40,2017- 6-7
+7,7,7,7,7,Carrot 1st Quality, 1, 65 to70,2017- 6-7
+8,8,8,8,8,Carrot 2nd Quality, 1, 60 to65,2017- 6-7
+9,9,9,9,9,Vendai Kai/Lady Finger, 1, 26,2017- 6-7
+10,10,10,10,10,Maram Murungai, 1, 14,2017- 6-7
+11,11,11,11,11,Chedi Murungai, 1, 17,2017- 6-7
+12,12,12,12,12,Avarai Ottu, 1, 25 to65,2017- 6-7
+13,13,13,13,13,Pachai Payaru, 1, 15,2017- 6-7
+14,14,14,14,14,Vellai Payaru, 1, 25,2017- 6-7
+15,15,15,15,15,Suraikai, 1, 5,2017- 6-7
+16,16,16,16,16,Beetroot, 1, 25,2017- 6-7
+17,17,17,17,17,Sunami Sambar, 1, 15 to10,2017- 6-7
+18,18,18,18,18,Pusanikai, 1, 5 to6,2017- 6-7
+19,19,19,19,19,Kalla Manga/Mango, 1, 9,2017- 6-7
+20,20,20,20,20,Orutu Manga/Mango, 1, 11,2017- 6-7
+21,21,21,21,21,Potato 1st Quality, 1, 10 to15,2017- 6-7
+22,22,22,22,22,Potato 2nd Quality, 1, 10,2017- 6-7
+23,23,23,23,23,Coconut 1st Quality, –, 26,2017- 6-7
+24,24,24,24,24,Coconut 2nd Quality, –, 21,2017- 6-7
+25,25,25,25,25,Green Chilli, 1, 45 to50,2017- 6-7
+26,26,26,26,26,Cauliflower 1st Quality, –, 25 to30,2017- 6-7
+27,27,27,27,27,Cauliflower 2nd Quality, –, 20 to25,2017- 6-7
+28,28,28,28,28,Katharikai Pachai, 1, 30 to40,2017- 6-7
+29,29,29,29,29,Katharikai ootha, 1, 25,2017- 6-7
+30,30,30,30,30,Valai Thar, –, 26,2017- 6-7
+31,31,31,31,31,Karuveppilai/Curry Leaf, 1 Kattu, 30 to25,2017- 6-7
+32,32,32,32,32,Pudalangai/Snake gourd 1st Quality, 1, 15 to20,2017- 6-7
+33,33,33,33,33,Pudalangai/Snake gourd 2nd Quality, 1, 10 to15,2017- 6-7
+34,34,34,34,34,Kothamalli 1st Quality, 1 kattu, 250,2017- 6-7
+35,35,35,35,35,Kothamalli 2nd Quality, 1 kattu, 240,2017- 6-7
+36,36,36,36,36,Mullangi 1st Quality, 1, 40,2017- 6-7
+37,37,37,37,37,Mullangi 2nd Quality, 1, 35,2017- 6-7
+38,38,38,38,38,Inji/Ginger, 1, 40,2017- 6-7
+39,39,39,39,39,Butter Beans, 1, 180 to200,2017- 6-7
+40,40,40,40,40,Mutta Kose, 1, 15 to20,2017- 6-7
+41,41,41,41,41,Pachai Pattani, 1, 180 to200,2017- 6-7
+42,42,42,42,42,Pakarkai, 1, 45 to50,2017- 6-7
+43,43,43,43,43,Nookal, 1, 60,2017- 6-7
+44,44,44,44,44,Chaw Chaw, 1, 25,2017- 6-7
+45,45,45,45,45,Kovakkai, 1, 15 to20,2017- 6-7
+46,46,46,46,46,Kothavarangai, 1, 15,2017- 6-7
+47,47,47,47,47,Nellikai, 1, 40,2017- 6-7
+48,48,48,48,48,Narthangai, 1, 45,2017- 6-7
+49,49,49,49,49,Vellarikai, 1, 18,2017- 6-7

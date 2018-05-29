@@ -1,28 +1,28 @@
-Commodity, Weight in Kg, Price in Rs
-Avarai Belt, 1, 44
-Avarai Kolee, 1, 30
-Avarai ottu, 1, –
-Beans, 1, 35
-Beetroot, 1, 10
-Bellary, 1, 25
-C Flower, 1 Flower, 10
-C Vengayam, 1, 45
-Chaw Chaw, 1, 20
-Kaththari Disco, 1, 8
-Kaththari Green, 1, 7
-Kothavarai, 1, 10
-Milagai Samba, 1, 14
-Milagai urundai, 1, 13
-Mullaingi, 1, 4
-Murungai chedi, 1, 14
-Murungai Maram, 1, 10
-Nelli, 1, 18
-Pavarkai, 1, 14
-Perkangkai, 1, 7
-Pudalai, 1, 10
-Red Pusanikkai, 1, 6
-Sambar Vellari, 1, 4
-Suraikai, 1, 7
-Thakkali, 1, 18
-Thatta payaru, 1, 12
-Vendai, 1, 20
+,Commodity, Weight in Kg, Price in Rs,date_of_purchase
+0,Avarai Belt, 1, 44,2015-7-2
+1,Avarai Kolee, 1, 30,2015-7-2
+2,Avarai ottu, 1, –,2015-7-2
+3,Beans, 1, 35,2015-7-2
+4,Beetroot, 1, 10,2015-7-2
+5,Bellary, 1, 25,2015-7-2
+6,C Flower, 1 Flower, 10,2015-7-2
+7,C Vengayam, 1, 45,2015-7-2
+8,Chaw Chaw, 1, 20,2015-7-2
+9,Kaththari Disco, 1, 8,2015-7-2
+10,Kaththari Green, 1, 7,2015-7-2
+11,Kothavarai, 1, 10,2015-7-2
+12,Milagai Samba, 1, 14,2015-7-2
+13,Milagai urundai, 1, 13,2015-7-2
+14,Mullaingi, 1, 4,2015-7-2
+15,Murungai chedi, 1, 14,2015-7-2
+16,Murungai Maram, 1, 10,2015-7-2
+17,Nelli, 1, 18,2015-7-2
+18,Pavarkai, 1, 14,2015-7-2
+19,Perkangkai, 1, 7,2015-7-2
+20,Pudalai, 1, 10,2015-7-2
+21,Red Pusanikkai, 1, 6,2015-7-2
+22,Sambar Vellari, 1, 4,2015-7-2
+23,Suraikai, 1, 7,2015-7-2
+24,Thakkali, 1, 18,2015-7-2
+25,Thatta payaru, 1, 12,2015-7-2
+26,Vendai, 1, 20,2015-7-2

@@ -1,28 +1,28 @@
-Commodity, Weight in Kg, Price in Rs
-Beans, 1, 26
-Pavarkai, 1, 12
-Perkangkai, 1, 10
-Beetroot, 1, 6
-Pudalai, 1, 6
-Mullaingi, 1, 2
-Bellary, 1, 20
-C.Vengayam, 1, 26
-C.Flower, 1P, 7
-Suraikai, 1, 3
-Vellari, 1, 5
-Pusanikkai, 1, 5
-Chaw Chaw, 1, 7
-Kothavarai, 1, 17
-Avarai(ottu), 1, 13
-Avarai(Belt), 1, 13
-Avarai(Kolee), 1, 13
-Milagai(Sambar), 1, 10
-Milagai(urundai), 1, 18
-Nelli, 1, 22
-Kaththari(Disco), 1, 7.50
-Kaththari(Green), 1, 13
-Thakkali, 1, 4
-Vendai, , 25
-Murungai(chedi), 1, 15
-Murungai(Maram), 1, 10
-Thatta payaru, 1, 11
+,Commodity, Weight in Kg, Price in Rs,date_of_purchase
+0,Beans, 1,26.0,2013-3rd-march
+1,Pavarkai, 1,12.0,2013-3rd-march
+2,Perkangkai, 1,10.0,2013-3rd-march
+3,Beetroot, 1,6.0,2013-3rd-march
+4,Pudalai, 1,6.0,2013-3rd-march
+5,Mullaingi, 1,2.0,2013-3rd-march
+6,Bellary, 1,20.0,2013-3rd-march
+7,C.Vengayam, 1,26.0,2013-3rd-march
+8,C.Flower, 1P,7.0,2013-3rd-march
+9,Suraikai, 1,3.0,2013-3rd-march
+10,Vellari, 1,5.0,2013-3rd-march
+11,Pusanikkai, 1,5.0,2013-3rd-march
+12,Chaw Chaw, 1,7.0,2013-3rd-march
+13,Kothavarai, 1,17.0,2013-3rd-march
+14,Avarai(ottu), 1,13.0,2013-3rd-march
+15,Avarai(Belt), 1,13.0,2013-3rd-march
+16,Avarai(Kolee), 1,13.0,2013-3rd-march
+17,Milagai(Sambar), 1,10.0,2013-3rd-march
+18,Milagai(urundai), 1,18.0,2013-3rd-march
+19,Nelli, 1,22.0,2013-3rd-march
+20,Kaththari(Disco), 1,7.5,2013-3rd-march
+21,Kaththari(Green), 1,13.0,2013-3rd-march
+22,Thakkali, 1,4.0,2013-3rd-march
+23,Vendai, ,25.0,2013-3rd-march
+24,Murungai(chedi), 1,15.0,2013-3rd-march
+25,Murungai(Maram), 1,10.0,2013-3rd-march
+26,Thatta payaru, 1,11.0,2013-3rd-march
