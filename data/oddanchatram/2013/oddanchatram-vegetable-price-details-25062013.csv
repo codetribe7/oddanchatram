@@ -1,28 +1,28 @@
-Commodity, Weight in Kg, Price in Rs
-Avarai Belt / அவரை (பெல்ட்), 1, 30
-Avarai Kolee / அவரை (கோலி), 1, 70
-Avarai ottu  / அவரை (ஒட்டு), 1, –
-Beans / பீன்ஸ், 1, 50
-Beetroot / பீட்ரூட், 1, 19
-Bellary / பெல்லாரி, 1, 20
-C Flower / காளிபிளவர், 1Flower, 17
-C Vengayam / சின்னவெங்காயம், 1, 60
-Chaw Chaw / சவ்சவ், 1, 25
-Kaththari Disco / கத்தரி(டிஸ்கோ), 1, 17
-Kaththari Green / கத்தரி(பச்சை), 1, 17
-Kothavarai / கொத்தவரை, 1, 13
-Milagai Sambar  / மிளகாய்(சாம்பார்), 1, 22
-Milagai urundai / மிளகாய்(உருண்டை), 1, 50
-Mullaingi / முள்ளங்கி, 1, 10
-Murungai chedi / முருங்கை(செடி), 1, 34
-Murungai Maram / முருங்கை(மரம்), 1, 30
-Nelli / நெல்லி, 1, 16
-Pavarkai / பாகற்காய், 1, 25
-Perkangkai / பீர்க்கங்காய், 1, 15
-Pudalai / புடலங்காய், 1, 20
-Red Pusanikkai / சிகப்பு பூசணிக்காய், 1, 10
-Sambar Vellari / சாம்பார் வெள்ளரி, 1, 9
-Suraikai / சுரைக்காய், 1, 8
-Thakkali / தக்காளி, 1, 40
-Thatta payaru / தட்டப்பயிறு, 1, 20
-Vendai / வெண்டைக்காய், 1, 19
+,Commodity, Weight in Kg, Price in Rs,date_of_purchase
+0,Avarai Belt / அவரை (பெல்ட்), 1, 30,2013-6-25
+1,Avarai Kolee / அவரை (கோலி), 1, 70,2013-6-25
+2,Avarai ottu  / அவரை (ஒட்டு), 1, –,2013-6-25
+3,Beans / பீன்ஸ், 1, 50,2013-6-25
+4,Beetroot / பீட்ரூட், 1, 19,2013-6-25
+5,Bellary / பெல்லாரி, 1, 20,2013-6-25
+6,C Flower / காளிபிளவர், 1Flower, 17,2013-6-25
+7,C Vengayam / சின்னவெங்காயம், 1, 60,2013-6-25
+8,Chaw Chaw / சவ்சவ், 1, 25,2013-6-25
+9,Kaththari Disco / கத்தரி(டிஸ்கோ), 1, 17,2013-6-25
+10,Kaththari Green / கத்தரி(பச்சை), 1, 17,2013-6-25
+11,Kothavarai / கொத்தவரை, 1, 13,2013-6-25
+12,Milagai Sambar  / மிளகாய்(சாம்பார்), 1, 22,2013-6-25
+13,Milagai urundai / மிளகாய்(உருண்டை), 1, 50,2013-6-25
+14,Mullaingi / முள்ளங்கி, 1, 10,2013-6-25
+15,Murungai chedi / முருங்கை(செடி), 1, 34,2013-6-25
+16,Murungai Maram / முருங்கை(மரம்), 1, 30,2013-6-25
+17,Nelli / நெல்லி, 1, 16,2013-6-25
+18,Pavarkai / பாகற்காய், 1, 25,2013-6-25
+19,Perkangkai / பீர்க்கங்காய், 1, 15,2013-6-25
+20,Pudalai / புடலங்காய், 1, 20,2013-6-25
+21,Red Pusanikkai / சிகப்பு பூசணிக்காய், 1, 10,2013-6-25
+22,Sambar Vellari / சாம்பார் வெள்ளரி, 1, 9,2013-6-25
+23,Suraikai / சுரைக்காய், 1, 8,2013-6-25
+24,Thakkali / தக்காளி, 1, 40,2013-6-25
+25,Thatta payaru / தட்டப்பயிறு, 1, 20,2013-6-25
+26,Vendai / வெண்டைக்காய், 1, 19,2013-6-25

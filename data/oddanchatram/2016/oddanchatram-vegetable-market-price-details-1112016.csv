@@ -1,29 +1,29 @@
-Commodity, Weight in Kg, Price in Rs
-Belt Beans / Avarai Belt, 1, 30
-Beans Kolee / Avarai Kolee, 1, 30
-Avarai ottu, 1, –
-Beans, 1, 50
-Beetroot, 1, 7
-Bellary / Big Onion, 1, 35
-Cauliflower, 1 Flower, 15
-Small Onion / Chinna Vengayam, 1, 35
-Chaw Chaw, 1, 18
-Disco Brinjal / Kaththari kai Disco, 1, 35
-Green Brinjal / Kaththari Kai Pachai, 1, 35
-Cluster Beans / Kothavarai, 1, 20
-Samba Chilli / Milagai Samba, 1, 40
-Round Chilli / Milagai Urundai, 1, 50
-Radish / Mullangi, 1, 8
-Drumstick / Murungai Chedi, 1, 70
-Drumstick / Murungai Maram, 1, 70
-Nelli Kai, 1, 22
-Bitter Gourd / Pakar kai, 1, –
-Perkangkai, 1, 20
-Snake Guard / Pudalai, 1, 27
-Red Pumpkin / Red Pusanikkai, 1, 7
-Sambar Vellari, 1, 10
-Bottle gourd / Suraikai, 1, 25
-Tomato / Thakkali, 1, 40
-Thatta payaru, 1, 30
-Lady’s Finger / Venda Kai, 1, 30
-Lemon / Elumbichai, 1, 70
+,Unnamed: 0,Commodity, Weight in Kg, Price in Rs,date_of_purchase
+0,0,Belt Beans / Avarai Belt, 1, 30,2016-11-1
+1,1,Beans Kolee / Avarai Kolee, 1, 30,2016-11-1
+2,2,Avarai ottu, 1, –,2016-11-1
+3,3,Beans, 1, 50,2016-11-1
+4,4,Beetroot, 1, 7,2016-11-1
+5,5,Bellary / Big Onion, 1, 35,2016-11-1
+6,6,Cauliflower, 1 Flower, 15,2016-11-1
+7,7,Small Onion / Chinna Vengayam, 1, 35,2016-11-1
+8,8,Chaw Chaw, 1, 18,2016-11-1
+9,9,Disco Brinjal / Kaththari kai Disco, 1, 35,2016-11-1
+10,10,Green Brinjal / Kaththari Kai Pachai, 1, 35,2016-11-1
+11,11,Cluster Beans / Kothavarai, 1, 20,2016-11-1
+12,12,Samba Chilli / Milagai Samba, 1, 40,2016-11-1
+13,13,Round Chilli / Milagai Urundai, 1, 50,2016-11-1
+14,14,Radish / Mullangi, 1, 8,2016-11-1
+15,15,Drumstick / Murungai Chedi, 1, 70,2016-11-1
+16,16,Drumstick / Murungai Maram, 1, 70,2016-11-1
+17,17,Nelli Kai, 1, 22,2016-11-1
+18,18,Bitter Gourd / Pakar kai, 1, –,2016-11-1
+19,19,Perkangkai, 1, 20,2016-11-1
+20,20,Snake Guard / Pudalai, 1, 27,2016-11-1
+21,21,Red Pumpkin / Red Pusanikkai, 1, 7,2016-11-1
+22,22,Sambar Vellari, 1, 10,2016-11-1
+23,23,Bottle gourd / Suraikai, 1, 25,2016-11-1
+24,24,Tomato / Thakkali, 1, 40,2016-11-1
+25,25,Thatta payaru, 1, 30,2016-11-1
+26,26,Lady’s Finger / Venda Kai, 1, 30,2016-11-1
+27,27,Lemon / Elumbichai, 1, 70,2016-11-1
