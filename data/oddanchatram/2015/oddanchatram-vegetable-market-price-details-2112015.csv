@@ -1,29 +1,29 @@
-,Commodity, Weight in Kg, Price in Rs,date_of_purchase
-0,Belt Beans / Avarai Belt, 1, 25,2015-11-2
-1,Beans Kolee / Avarai Kolee, 1, 22,2015-11-2
-2,Avarai ottu, 1, –,2015-11-2
-3,Beans, 1, 20,2015-11-2
-4,Beetroot, 1, 6,2015-11-2
-5,Bellary / Big Onion, 1, 35,2015-11-2
-6,Cauliflower, 1 Flower, 13,2015-11-2
-7,Small Onion / Chinna Vengayam, 1, 40,2015-11-2
-8,Chaw Chaw, 1, 10,2015-11-2
-9,Disco Brinjal / Kaththari kai Disco, 1, 11,2015-11-2
-10,Green Brinjal / Kaththari Kai Pachai, 1, 11,2015-11-2
-11,Cluster Beans / Kothavarai, 1, 18,2015-11-2
-12,Samba Chilli / Milagai Samba, 1, 20,2015-11-2
-13,Round Chilli / Milagai Urundai, 1, 25,2015-11-2
-14,Radish / Mullangi, 1, 5,2015-11-2
-15,Drumstick / Murungai Chedi, 1, 30,2015-11-2
-16,Drumstick / Murungai Maram, 1, 30,2015-11-2
-17,Nelli Kai, 1, 30,2015-11-2
-18,Bitter Gourd / Pakar kai, 1, 20,2015-11-2
-19,Perkangkai, 1, 20,2015-11-2
-20,Snake Guard / Pudalai, 1, 6,2015-11-2
-21,Red Pumpkin / Red Pusanikkai, 1, 6,2015-11-2
-22,Sambar Vellari, 1, 5,2015-11-2
-23,Bottle gourd / Suraikai, 1, 4,2015-11-2
-24,Tomato / Thakkali, 1, 14,2015-11-2
-25,Thatta payaru, 1, 20,2015-11-2
-26,Lady’s Finger / Venda Kai, 1, 21,2015-11-2
-27,Lemon / Elumbichai, 1, 57,2015-11-2
+,Unnamed: 0,Commodity, Weight in Kg, Price in Rs,date_of_purchase
+0,0,Belt Beans / Avarai Belt, 1, 25,2015-1-21
+1,1,Beans Kolee / Avarai Kolee, 1, 22,2015-1-21
+2,2,Avarai ottu, 1, –,2015-1-21
+3,3,Beans, 1, 20,2015-1-21
+4,4,Beetroot, 1, 6,2015-1-21
+5,5,Bellary / Big Onion, 1, 35,2015-1-21
+6,6,Cauliflower, 1 Flower, 13,2015-1-21
+7,7,Small Onion / Chinna Vengayam, 1, 40,2015-1-21
+8,8,Chaw Chaw, 1, 10,2015-1-21
+9,9,Disco Brinjal / Kaththari kai Disco, 1, 11,2015-1-21
+10,10,Green Brinjal / Kaththari Kai Pachai, 1, 11,2015-1-21
+11,11,Cluster Beans / Kothavarai, 1, 18,2015-1-21
+12,12,Samba Chilli / Milagai Samba, 1, 20,2015-1-21
+13,13,Round Chilli / Milagai Urundai, 1, 25,2015-1-21
+14,14,Radish / Mullangi, 1, 5,2015-1-21
+15,15,Drumstick / Murungai Chedi, 1, 30,2015-1-21
+16,16,Drumstick / Murungai Maram, 1, 30,2015-1-21
+17,17,Nelli Kai, 1, 30,2015-1-21
+18,18,Bitter Gourd / Pakar kai, 1, 20,2015-1-21
+19,19,Perkangkai, 1, 20,2015-1-21
+20,20,Snake Guard / Pudalai, 1, 6,2015-1-21
+21,21,Red Pumpkin / Red Pusanikkai, 1, 6,2015-1-21
+22,22,Sambar Vellari, 1, 5,2015-1-21
+23,23,Bottle gourd / Suraikai, 1, 4,2015-1-21
+24,24,Tomato / Thakkali, 1, 14,2015-1-21
+25,25,Thatta payaru, 1, 20,2015-1-21
+26,26,Lady’s Finger / Venda Kai, 1, 21,2015-1-21
+27,27,Lemon / Elumbichai, 1, 57,2015-1-21

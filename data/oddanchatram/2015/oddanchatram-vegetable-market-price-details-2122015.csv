@@ -1,28 +1,28 @@
-,Commodity, Weight in Kg, Price in Rs,date_of_purchase
-0,Avarai Belt, 1, 40,2015-12-2
-1,Avarai Kolee, 1, 20,2015-12-2
-2,Avarai ottu, 1, –,2015-12-2
-3,Beans, 1, 12,2015-12-2
-4,Beetroot, 1, 5,2015-12-2
-5,Bellary, 1, 20,2015-12-2
-6,C Flower, 1 Flower, 6,2015-12-2
-7,C Vengayam, 1, 22,2015-12-2
-8,Chaw Chaw, 1, 20,2015-12-2
-9,Kaththari Disco, 1, 5,2015-12-2
-10,Kaththari Green, 1, 6,2015-12-2
-11,Kothavarai, 1, 20,2015-12-2
-12,Milagai Samba, 1, 14,2015-12-2
-13,Milagai urundai, 1, 13,2015-12-2
-14,Mullaingi, 1, 8,2015-12-2
-15,Murungai chedi, 1, 80,2015-12-2
-16,Murungai Maram, 1, 75,2015-12-2
-17,Nelli, 1, 12,2015-12-2
-18,Pavarkai, 1, 15,2015-12-2
-19,Perkangkai, 1, 12,2015-12-2
-20,Pudalai, 1, 2,2015-12-2
-21,Red Pusanikkai, 1, 4,2015-12-2
-22,Sambar Vellari, 1, 5,2015-12-2
-23,Suraikai, 1, 2,2015-12-2
-24,Thakkali, 1, 5,2015-12-2
-25,Thatta payaru, 1, 15,2015-12-2
-26,Vendai, 1, 8,2015-12-2
+,Unnamed: 0,Commodity, Weight in Kg, Price in Rs,date_of_purchase
+0,0,Avarai Belt, 1, 40,2015-2-21
+1,1,Avarai Kolee, 1, 20,2015-2-21
+2,2,Avarai ottu, 1, –,2015-2-21
+3,3,Beans, 1, 12,2015-2-21
+4,4,Beetroot, 1, 5,2015-2-21
+5,5,Bellary, 1, 20,2015-2-21
+6,6,C Flower, 1 Flower, 6,2015-2-21
+7,7,C Vengayam, 1, 22,2015-2-21
+8,8,Chaw Chaw, 1, 20,2015-2-21
+9,9,Kaththari Disco, 1, 5,2015-2-21
+10,10,Kaththari Green, 1, 6,2015-2-21
+11,11,Kothavarai, 1, 20,2015-2-21
+12,12,Milagai Samba, 1, 14,2015-2-21
+13,13,Milagai urundai, 1, 13,2015-2-21
+14,14,Mullaingi, 1, 8,2015-2-21
+15,15,Murungai chedi, 1, 80,2015-2-21
+16,16,Murungai Maram, 1, 75,2015-2-21
+17,17,Nelli, 1, 12,2015-2-21
+18,18,Pavarkai, 1, 15,2015-2-21
+19,19,Perkangkai, 1, 12,2015-2-21
+20,20,Pudalai, 1, 2,2015-2-21
+21,21,Red Pusanikkai, 1, 4,2015-2-21
+22,22,Sambar Vellari, 1, 5,2015-2-21
+23,23,Suraikai, 1, 2,2015-2-21
+24,24,Thakkali, 1, 5,2015-2-21
+25,25,Thatta payaru, 1, 15,2015-2-21
+26,26,Vendai, 1, 8,2015-2-21

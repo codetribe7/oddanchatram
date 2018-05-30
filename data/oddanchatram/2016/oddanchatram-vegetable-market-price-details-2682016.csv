@@ -1,29 +1,29 @@
-,Unnamed: 0,Commodity, Weight in Kg, Price in Rs,date_of_purchase
-0,0,Belt Beans / Avarai Belt, 1, 25,2016-8-2
-1,1,Beans Kolee / Avarai Kolee, 1, 25,2016-8-2
-2,2,Avarai ottu, 1, –,2016-8-2
-3,3,Beans, 1, 35,2016-8-2
-4,4,Beetroot, 1, 8,2016-8-2
-5,5,Bellary / Big Onion, 1, 20,2016-8-2
-6,6,Cauliflower, 1 Flower, 13,2016-8-2
-7,7,Small Onion / Chinna Vengayam, 1, 18,2016-8-2
-8,8,Chaw Chaw, 1, 22,2016-8-2
-9,9,Disco Brinjal / Kaththari kai Disco, 1, 15,2016-8-2
-10,10,Green Brinjal / Kaththari Kai Pachai, 1, 15,2016-8-2
-11,11,Cluster Beans / Kothavarai, 1, 10,2016-8-2
-12,12,Samba Chilli / Milagai Samba, 1, 30,2016-8-2
-13,13,Round Chilli / Milagai Urundai, 1, 30,2016-8-2
-14,14,Radish / Mullangi, 1, 9,2016-8-2
-15,15,Drumstick / Murungai Chedi, 1, 20,2016-8-2
-16,16,Drumstick / Murungai Maram, 1, 18,2016-8-2
-17,17,Nelli Kai, 1, 23,2016-8-2
-18,18,Bitter Gourd / Pakar kai, 1, –,2016-8-2
-19,19,Perkangkai, 1, 20,2016-8-2
-20,20,Snake Guard / Pudalai, 1, 10,2016-8-2
-21,21,Red Pumpkin / Red Pusanikkai, 1, 5,2016-8-2
-22,22,Sambar Vellari, 1, 8,2016-8-2
-23,23,Bottle gourd / Suraikai, 1, 5,2016-8-2
-24,24,Tomato / Thakkali, 1, 10,2016-8-2
-25,25,Thatta payaru, 1, 20,2016-8-2
-26,26,Lady’s Finger / Venda Kai, 1, 10,2016-8-2
-27,27,Lemon / Elumbichai, 1, 60,2016-8-2
+,Unnamed: 0,Unnamed: 0.1,Commodity, Weight in Kg, Price in Rs,date_of_purchase
+0,0,0,Belt Beans / Avarai Belt, 1, 25,2016-8-26
+1,1,1,Beans Kolee / Avarai Kolee, 1, 25,2016-8-26
+2,2,2,Avarai ottu, 1, –,2016-8-26
+3,3,3,Beans, 1, 35,2016-8-26
+4,4,4,Beetroot, 1, 8,2016-8-26
+5,5,5,Bellary / Big Onion, 1, 20,2016-8-26
+6,6,6,Cauliflower, 1 Flower, 13,2016-8-26
+7,7,7,Small Onion / Chinna Vengayam, 1, 18,2016-8-26
+8,8,8,Chaw Chaw, 1, 22,2016-8-26
+9,9,9,Disco Brinjal / Kaththari kai Disco, 1, 15,2016-8-26
+10,10,10,Green Brinjal / Kaththari Kai Pachai, 1, 15,2016-8-26
+11,11,11,Cluster Beans / Kothavarai, 1, 10,2016-8-26
+12,12,12,Samba Chilli / Milagai Samba, 1, 30,2016-8-26
+13,13,13,Round Chilli / Milagai Urundai, 1, 30,2016-8-26
+14,14,14,Radish / Mullangi, 1, 9,2016-8-26
+15,15,15,Drumstick / Murungai Chedi, 1, 20,2016-8-26
+16,16,16,Drumstick / Murungai Maram, 1, 18,2016-8-26
+17,17,17,Nelli Kai, 1, 23,2016-8-26
+18,18,18,Bitter Gourd / Pakar kai, 1, –,2016-8-26
+19,19,19,Perkangkai, 1, 20,2016-8-26
+20,20,20,Snake Guard / Pudalai, 1, 10,2016-8-26
+21,21,21,Red Pumpkin / Red Pusanikkai, 1, 5,2016-8-26
+22,22,22,Sambar Vellari, 1, 8,2016-8-26
+23,23,23,Bottle gourd / Suraikai, 1, 5,2016-8-26
+24,24,24,Tomato / Thakkali, 1, 10,2016-8-26
+25,25,25,Thatta payaru, 1, 20,2016-8-26
+26,26,26,Lady’s Finger / Venda Kai, 1, 10,2016-8-26
+27,27,27,Lemon / Elumbichai, 1, 60,2016-8-26
