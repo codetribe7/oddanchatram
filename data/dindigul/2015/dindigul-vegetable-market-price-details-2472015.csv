@@ -1,35 +1,35 @@
-Commodity, Weight in Kg, Price in Rs
-Brinjal, 1, 40
-Tomotto ottu, 1, 16
-Ladys Finger, 1, 16
-Snake Guard, 1, 16
-Bitter Gourd, 1, 24
-Bottle gourd, 1, 10
-Pumpkin, 1, 16
-Bean, 1, 36
-Cluster Beans, 1, 16
-Red Chilies, 1, 36
-Onion, 1, 44
-Pallari, 1, 32
-Ginger, 1, –
-Potato, 1, 20
-Radish, 1, 16
-Mango, 1, –
-Cabbage, 1, 16
-Carrot, 1, 36
-Beetroot, 1, 36
-Soybeans, 1, 80
-Drumstick beans, 1, 40
-butter beans, 1, –
-Banana nut, 1 piece, 4
-Banana stem, 1, 12
-Banana Flower, 1, 10
-Curry leaves, 1, 20
-Coriander leaves, 1, 30
-Mint, 1, 30
-Greens Leaves, 1, 15
-Garlic, 1, 100
-Button Mushrooms, 1, 140
-Papaya, 1, 20
-SavSav, 1, 20
-Sapotta, 1, 16
+,Commodity, Weight in Kg, Price in Rs,date_of_purchase
+0,Brinjal, 1, 40,2015-7-24
+1,Tomotto ottu, 1, 16,2015-7-24
+2,Ladys Finger, 1, 16,2015-7-24
+3,Snake Guard, 1, 16,2015-7-24
+4,Bitter Gourd, 1, 24,2015-7-24
+5,Bottle gourd, 1, 10,2015-7-24
+6,Pumpkin, 1, 16,2015-7-24
+7,Bean, 1, 36,2015-7-24
+8,Cluster Beans, 1, 16,2015-7-24
+9,Red Chilies, 1, 36,2015-7-24
+10,Onion, 1, 44,2015-7-24
+11,Pallari, 1, 32,2015-7-24
+12,Ginger, 1, –,2015-7-24
+13,Potato, 1, 20,2015-7-24
+14,Radish, 1, 16,2015-7-24
+15,Mango, 1, –,2015-7-24
+16,Cabbage, 1, 16,2015-7-24
+17,Carrot, 1, 36,2015-7-24
+18,Beetroot, 1, 36,2015-7-24
+19,Soybeans, 1, 80,2015-7-24
+20,Drumstick beans, 1, 40,2015-7-24
+21,butter beans, 1, –,2015-7-24
+22,Banana nut, 1 piece, 4,2015-7-24
+23,Banana stem, 1, 12,2015-7-24
+24,Banana Flower, 1, 10,2015-7-24
+25,Curry leaves, 1, 20,2015-7-24
+26,Coriander leaves, 1, 30,2015-7-24
+27,Mint, 1, 30,2015-7-24
+28,Greens Leaves, 1, 15,2015-7-24
+29,Garlic, 1, 100,2015-7-24
+30,Button Mushrooms, 1, 140,2015-7-24
+31,Papaya, 1, 20,2015-7-24
+32,SavSav, 1, 20,2015-7-24
+33,Sapotta, 1, 16,2015-7-24

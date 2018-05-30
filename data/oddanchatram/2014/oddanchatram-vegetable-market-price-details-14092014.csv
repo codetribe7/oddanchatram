@@ -1,28 +1,28 @@
-,Commodity, Weight in Kg, Price in Rs,date_of_purchase
-0,Avarai Belt, 1, 45,2014-9-14
-1,Avarai Kolee, 1, 16,2014-9-14
-2,Avarai ottu, 1, –,2014-9-14
-3,Beans, 1, 40,2014-9-14
-4,Beetroot, 1, 8,2014-9-14
-5,Bellary, 1, 25,2014-9-14
-6,C Flower, 1 Flower, 12,2014-9-14
-7,C Vengayam, 1, 30,2014-9-14
-8,Chaw Chaw, 1, 25,2014-9-14
-9,Kaththari Disco, 1, 10,2014-9-14
-10,Kaththari Green, 1, 10,2014-9-14
-11,Kothavarai, 1, 15,2014-9-14
-12,Milagai Sambar, 1, 27,2014-9-14
-13,Milagai urundai, 1, 38,2014-9-14
-14,Mullaingi, 1, 8,2014-9-14
-15,Murungai chedi, 1, 15,2014-9-14
-16,Murungai Maram, 1, 13,2014-9-14
-17,Nelli, 1, 30,2014-9-14
-18,Pavarkai, 1, 26,2014-9-14
-19,Perkangkai, 1, 25,2014-9-14
-20,Pudalai, 1, 10,2014-9-14
-21,Red Pusanikkai, 1, 7,2014-9-14
-22,Sambar Vellari, 1, 8,2014-9-14
-23,Suraikai, 1, 5,2014-9-14
-24,Thakkali, 1, 10,2014-9-14
-25,Thatta payaru, 1, 30,2014-9-14
-26,Vendai, 1, 5,2014-9-14
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Commodity, Weight in Kg, Price in Rs,date_of_purchase
+0,0,0,0,Avarai Belt, 1, 45,2014-9-14
+1,1,1,1,Avarai Kolee, 1, 16,2014-9-14
+2,2,2,2,Avarai ottu, 1, –,2014-9-14
+3,3,3,3,Beans, 1, 40,2014-9-14
+4,4,4,4,Beetroot, 1, 8,2014-9-14
+5,5,5,5,Bellary, 1, 25,2014-9-14
+6,6,6,6,C Flower, 1 Flower, 12,2014-9-14
+7,7,7,7,C Vengayam, 1, 30,2014-9-14
+8,8,8,8,Chaw Chaw, 1, 25,2014-9-14
+9,9,9,9,Kaththari Disco, 1, 10,2014-9-14
+10,10,10,10,Kaththari Green, 1, 10,2014-9-14
+11,11,11,11,Kothavarai, 1, 15,2014-9-14
+12,12,12,12,Milagai Sambar, 1, 27,2014-9-14
+13,13,13,13,Milagai urundai, 1, 38,2014-9-14
+14,14,14,14,Mullaingi, 1, 8,2014-9-14
+15,15,15,15,Murungai chedi, 1, 15,2014-9-14
+16,16,16,16,Murungai Maram, 1, 13,2014-9-14
+17,17,17,17,Nelli, 1, 30,2014-9-14
+18,18,18,18,Pavarkai, 1, 26,2014-9-14
+19,19,19,19,Perkangkai, 1, 25,2014-9-14
+20,20,20,20,Pudalai, 1, 10,2014-9-14
+21,21,21,21,Red Pusanikkai, 1, 7,2014-9-14
+22,22,22,22,Sambar Vellari, 1, 8,2014-9-14
+23,23,23,23,Suraikai, 1, 5,2014-9-14
+24,24,24,24,Thakkali, 1, 10,2014-9-14
+25,25,25,25,Thatta payaru, 1, 30,2014-9-14
+26,26,26,26,Vendai, 1, 5,2014-9-14

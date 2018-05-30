@@ -1,35 +1,35 @@
-Commodity, Weight in Kg, Price in Rs
-Brinjal / Kathari, 1, 40
-Tomotto ottu / Thakkali Ottu, 1, 24
-Lady’s Finger / Venda Kai, 1, 36
-Snake Guard / Pudalai, 1, 16
-Bitter Gourd / Pakar kai, 1, 28
-Bottle gourd / Sura kai, 1, 8
-Pumpkin / Pusani kai, 1, 16
-Beans / Avarai Kai, 1, 50
-Cluster Beans / Kothavarai, 1, 24
-Red Chilies / Kundu Milagai, 1, 30
-Small Onion / Chinna Vengayam, 1, 40
-Big Onion / Pallari, 1, 40
-Ginger /  Inji, 1, –
-Potato / Urulai Kelangu, 1, 30
-Radish / Mulangi, 1, 18
-Mango / Maa, 1, –
-Cabbage / Mutta Kose, 1, 16
-Carrot, 1, 40
-Beetroot, 1, 20
-Soya Beans, 1, 80
-Drumstick Beans / Murungai Beans, 1, 60
-Butter beans, 1, –
-Banana nut / Vala kai, 1 piece, 4
-Banana stem / Vala Thandu, 1, 10
-Banana Flower / Vala Poo, 1, 12
-Curry leaves / Karu Vepilai, 1, 20
-Coriander leaves / Malli Ilai, 1, 40
-Mint / Puthina, 1, 30
-Greens Leaves / Keerai Kattu, 1, 12
-Garlic / Poondu, 1, 100
-Button Mushrooms / Button Kaalan, 1, 200
-Papaya / Papali, 1, 20
-Sav Sav, 1, 16
-Sapotta, 1, 24
+,Commodity, Weight in Kg, Price in Rs,date_of_purchase
+0,Brinjal / Kathari, 1, 40,2015-10-19
+1,Tomotto ottu / Thakkali Ottu, 1, 24,2015-10-19
+2,Lady’s Finger / Venda Kai, 1, 36,2015-10-19
+3,Snake Guard / Pudalai, 1, 16,2015-10-19
+4,Bitter Gourd / Pakar kai, 1, 28,2015-10-19
+5,Bottle gourd / Sura kai, 1, 8,2015-10-19
+6,Pumpkin / Pusani kai, 1, 16,2015-10-19
+7,Beans / Avarai Kai, 1, 50,2015-10-19
+8,Cluster Beans / Kothavarai, 1, 24,2015-10-19
+9,Red Chilies / Kundu Milagai, 1, 30,2015-10-19
+10,Small Onion / Chinna Vengayam, 1, 40,2015-10-19
+11,Big Onion / Pallari, 1, 40,2015-10-19
+12,Ginger /  Inji, 1, –,2015-10-19
+13,Potato / Urulai Kelangu, 1, 30,2015-10-19
+14,Radish / Mulangi, 1, 18,2015-10-19
+15,Mango / Maa, 1, –,2015-10-19
+16,Cabbage / Mutta Kose, 1, 16,2015-10-19
+17,Carrot, 1, 40,2015-10-19
+18,Beetroot, 1, 20,2015-10-19
+19,Soya Beans, 1, 80,2015-10-19
+20,Drumstick Beans / Murungai Beans, 1, 60,2015-10-19
+21,Butter beans, 1, –,2015-10-19
+22,Banana nut / Vala kai, 1 piece, 4,2015-10-19
+23,Banana stem / Vala Thandu, 1, 10,2015-10-19
+24,Banana Flower / Vala Poo, 1, 12,2015-10-19
+25,Curry leaves / Karu Vepilai, 1, 20,2015-10-19
+26,Coriander leaves / Malli Ilai, 1, 40,2015-10-19
+27,Mint / Puthina, 1, 30,2015-10-19
+28,Greens Leaves / Keerai Kattu, 1, 12,2015-10-19
+29,Garlic / Poondu, 1, 100,2015-10-19
+30,Button Mushrooms / Button Kaalan, 1, 200,2015-10-19
+31,Papaya / Papali, 1, 20,2015-10-19
+32,Sav Sav, 1, 16,2015-10-19
+33,Sapotta, 1, 24,2015-10-19

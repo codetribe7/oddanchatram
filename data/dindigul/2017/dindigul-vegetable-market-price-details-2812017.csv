@@ -1,36 +1,36 @@
-Commodity, Weight in Kg, Price in Rs
-Brinjal / Kathari, 1, 50
-Tomotto ottu / Thakkali Ottu, 1, 18
-Lady’s Finger / Venda Kai, 1, 30
-Snake Guard / Pudalai, 1, 14
-Bitter Gourd / Pakar kai, 1, 30
-Bottle gourd / Sura kai, 1, 8
-Pumpkin / Pusani kai, 1, 15
-Beans / Avarai Kai, 1, 12
-Cluster Beans / Kothavarai, 1, 22
-Red Chilies / Kundu Milagai, 1, 60
-Small Onion / Chinna Vengayam, 1, 25
-Big Onion / Pallari, 1, 20
-Ginger / Inji, 1, –
-Potato / Urulai Kelangu, 1, 24
-Radish / Mulangi, 1, 20
-Mango / Maa, 1, –
-Cabbage / Mutta Kose, 1, 8
-Carrot, 1, 18
-Beetroot, 1, 20
-Soya Beans, 1, 90
-Drumstick Beans / Murungai Beans, 1, 30
-Butter beans, 1, –
-Banana nut / Vala kai, 1 piece, 4
-Banana stem / Vala Thandu, 1, 10
-Banana Flower / Vala Poo, 1, 10
-Curry leaves / Karu Vepilai, 1, 20
-Coriander leaves / Malli Ilai, 1, –
-Mint / Puthina, 1, 15
-Greens Leaves / Keerai Kattu, 1, 12
-Garlic / Poondu, 1, –
-Button Mushrooms / Button Kaalan, 1, –
-Papaya / Papali, 1, 20
-Sav Sav, 1, 18
-Sapotta, 1, –
-Puli / Tamarind, 1, 80
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,Commodity, Weight in Kg, Price in Rs,date_of_purchase
+0,0,0,0,0,0,Brinjal / Kathari, 1, 50,2017-1-28
+1,1,1,1,1,1,Tomotto ottu / Thakkali Ottu, 1, 18,2017-1-28
+2,2,2,2,2,2,Lady’s Finger / Venda Kai, 1, 30,2017-1-28
+3,3,3,3,3,3,Snake Guard / Pudalai, 1, 14,2017-1-28
+4,4,4,4,4,4,Bitter Gourd / Pakar kai, 1, 30,2017-1-28
+5,5,5,5,5,5,Bottle gourd / Sura kai, 1, 8,2017-1-28
+6,6,6,6,6,6,Pumpkin / Pusani kai, 1, 15,2017-1-28
+7,7,7,7,7,7,Beans / Avarai Kai, 1, 12,2017-1-28
+8,8,8,8,8,8,Cluster Beans / Kothavarai, 1, 22,2017-1-28
+9,9,9,9,9,9,Red Chilies / Kundu Milagai, 1, 60,2017-1-28
+10,10,10,10,10,10,Small Onion / Chinna Vengayam, 1, 25,2017-1-28
+11,11,11,11,11,11,Big Onion / Pallari, 1, 20,2017-1-28
+12,12,12,12,12,12,Ginger / Inji, 1, –,2017-1-28
+13,13,13,13,13,13,Potato / Urulai Kelangu, 1, 24,2017-1-28
+14,14,14,14,14,14,Radish / Mulangi, 1, 20,2017-1-28
+15,15,15,15,15,15,Mango / Maa, 1, –,2017-1-28
+16,16,16,16,16,16,Cabbage / Mutta Kose, 1, 8,2017-1-28
+17,17,17,17,17,17,Carrot, 1, 18,2017-1-28
+18,18,18,18,18,18,Beetroot, 1, 20,2017-1-28
+19,19,19,19,19,19,Soya Beans, 1, 90,2017-1-28
+20,20,20,20,20,20,Drumstick Beans / Murungai Beans, 1, 30,2017-1-28
+21,21,21,21,21,21,Butter beans, 1, –,2017-1-28
+22,22,22,22,22,22,Banana nut / Vala kai, 1 piece, 4,2017-1-28
+23,23,23,23,23,23,Banana stem / Vala Thandu, 1, 10,2017-1-28
+24,24,24,24,24,24,Banana Flower / Vala Poo, 1, 10,2017-1-28
+25,25,25,25,25,25,Curry leaves / Karu Vepilai, 1, 20,2017-1-28
+26,26,26,26,26,26,Coriander leaves / Malli Ilai, 1, –,2017-1-28
+27,27,27,27,27,27,Mint / Puthina, 1, 15,2017-1-28
+28,28,28,28,28,28,Greens Leaves / Keerai Kattu, 1, 12,2017-1-28
+29,29,29,29,29,29,Garlic / Poondu, 1, –,2017-1-28
+30,30,30,30,30,30,Button Mushrooms / Button Kaalan, 1, –,2017-1-28
+31,31,31,31,31,31,Papaya / Papali, 1, 20,2017-1-28
+32,32,32,32,32,32,Sav Sav, 1, 18,2017-1-28
+33,33,33,33,33,33,Sapotta, 1, –,2017-1-28
+34,34,34,34,34,34,Puli / Tamarind, 1, 80,2017-1-28

@@ -1,48 +1,48 @@
-,Unnamed: 0,Unnamed: 0.1,Commodity, Weight in Kg, Price in Rs,date_of_purchase
-0,0,0,Lemon, 1, 40,2017-2-2
-1,1,1,Tomato/Thakkali 1st Quality, 1, 20,2017-2-2
-2,2,2,Tomato/Thakkali 2nd Quality, 1, 15,2017-2-2
-3,3,3,Small Onion, 1, 40,2017-2-2
-4,4,4,Bellary (Big Onion), 1, 12 to 15,2017-2-2
-5,5,5,Beans 1st Quality, –, 32 to 40,2017-2-2
-6,6,6,Beans 2nd Quality, 1, 27 to 35,2017-2-2
-7,7,7,Carrot 1st Quality, 1, 12 to 15,2017-2-2
-8,8,8,Carrot 2nd Quality, 1, 7 to 10,2017-2-2
-9,9,9,Vendai Kai/Lady Finger, 1, 57,2017-2-2
-10,10,10,Maram Murungai, 1, 11 to 14,2017-2-2
-11,11,11,Chedi Murungai, 1, 17,2017-2-2
-12,12,12,Avarai Ottu, 1, 25 to 35,2017-2-2
-13,13,13,Pachai Payaru, 1, 40,2017-2-2
-14,14,14,Vellai Payaru, 1, 30,2017-2-2
-15,15,15,Suraikai, 1, 9,2017-2-2
-16,16,16,Beetroot, 1, 8,2017-2-2
-17,17,17,Sunami Sambar, 1, 20,2017-2-2
-18,18,18,Pusanikai, 1, 10 to 12,2017-2-2
-19,19,19,Kalla Manga/Mango, 1, 20,2017-2-2
-20,20,20,Orutu Manga/Mango, 1, 12 to 17,2017-2-2
-21,21,21,Potato 1st Quality, 1, 15 to 20,2017-2-2
-22,22,22,Potato 2nd Quality, 1, 10 to 15,2017-2-2
-23,23,23,Coconut 1st Quality, –, 25 to 30,2017-2-2
-24,24,24,Coconut 2nd Quality, –, 20 to 25,2017-2-2
-25,25,25,Green Chilli, 1, 14 to 35,2017-2-2
-26,26,26,Cauliflower 1st Quality, –, 20,2017-2-2
-27,27,27,Cauliflower 2nd Quality, –, 15,2017-2-2
-28,28,28,Katharikai Pachai, 1, 30 to 40,2017-2-2
-29,29,29,Katharikai ootha, 1, 25,2017-2-2
-30,30,30,Valai Thar, –, 28 to 30,2017-2-2
-31,31,31,Karuveppilai/Curry Leaf, 1 Kattu, 15 to 20,2017-2-2
-32,32,32,Pudalangai/Snake gourd 1st Quality, 1, 25 to 35,2017-2-2
-33,33,33,Pudalangai/Snake gourd 2nd Quality, 1, 20 to 30,2017-2-2
-34,34,34,Kothamalli 1st Quality, 1 kattu, 15 to 20,2017-2-2
-35,35,35,Kothamalli 2nd Quality, 1 kattu, 10 to 15,2017-2-2
-36,36,36,Mullangi 1st Quality, 1, 20 to 25,2017-2-2
-37,37,37,Mullangi 2nd Quality, 1, 15 to 20,2017-2-2
-38,38,38,Inji/Ginger, 1, 25 to 30,2017-2-2
-39,39,39,Butter Beans, 1, 120,2017-2-2
-40,40,40,Mutta Kose, 1, 8,2017-2-2
-41,41,41,Pachai Pattani, 1, 25,2017-2-2
-42,42,42,Pakarkai, 1, 25 to 35,2017-2-2
-43,43,43,Nookal, 1, 10,2017-2-2
-44,44,44,Chaw Chaw, 1, 10 to 15,2017-2-2
-45,45,45,Kovakkai, 1, 15 to 20,2017-2-2
-46,46,46,Kothavarangai, 1, 25 to 30,2017-2-2
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,Commodity, Weight in Kg, Price in Rs,date_of_purchase
+0,0,0,0,0,0,Lemon, 1, 40,2017-2-22
+1,1,1,1,1,1,Tomato/Thakkali 1st Quality, 1, 20,2017-2-22
+2,2,2,2,2,2,Tomato/Thakkali 2nd Quality, 1, 15,2017-2-22
+3,3,3,3,3,3,Small Onion, 1, 40,2017-2-22
+4,4,4,4,4,4,Bellary (Big Onion), 1, 12 to 15,2017-2-22
+5,5,5,5,5,5,Beans 1st Quality, –, 32 to 40,2017-2-22
+6,6,6,6,6,6,Beans 2nd Quality, 1, 27 to 35,2017-2-22
+7,7,7,7,7,7,Carrot 1st Quality, 1, 12 to 15,2017-2-22
+8,8,8,8,8,8,Carrot 2nd Quality, 1, 7 to 10,2017-2-22
+9,9,9,9,9,9,Vendai Kai/Lady Finger, 1, 57,2017-2-22
+10,10,10,10,10,10,Maram Murungai, 1, 11 to 14,2017-2-22
+11,11,11,11,11,11,Chedi Murungai, 1, 17,2017-2-22
+12,12,12,12,12,12,Avarai Ottu, 1, 25 to 35,2017-2-22
+13,13,13,13,13,13,Pachai Payaru, 1, 40,2017-2-22
+14,14,14,14,14,14,Vellai Payaru, 1, 30,2017-2-22
+15,15,15,15,15,15,Suraikai, 1, 9,2017-2-22
+16,16,16,16,16,16,Beetroot, 1, 8,2017-2-22
+17,17,17,17,17,17,Sunami Sambar, 1, 20,2017-2-22
+18,18,18,18,18,18,Pusanikai, 1, 10 to 12,2017-2-22
+19,19,19,19,19,19,Kalla Manga/Mango, 1, 20,2017-2-22
+20,20,20,20,20,20,Orutu Manga/Mango, 1, 12 to 17,2017-2-22
+21,21,21,21,21,21,Potato 1st Quality, 1, 15 to 20,2017-2-22
+22,22,22,22,22,22,Potato 2nd Quality, 1, 10 to 15,2017-2-22
+23,23,23,23,23,23,Coconut 1st Quality, –, 25 to 30,2017-2-22
+24,24,24,24,24,24,Coconut 2nd Quality, –, 20 to 25,2017-2-22
+25,25,25,25,25,25,Green Chilli, 1, 14 to 35,2017-2-22
+26,26,26,26,26,26,Cauliflower 1st Quality, –, 20,2017-2-22
+27,27,27,27,27,27,Cauliflower 2nd Quality, –, 15,2017-2-22
+28,28,28,28,28,28,Katharikai Pachai, 1, 30 to 40,2017-2-22
+29,29,29,29,29,29,Katharikai ootha, 1, 25,2017-2-22
+30,30,30,30,30,30,Valai Thar, –, 28 to 30,2017-2-22
+31,31,31,31,31,31,Karuveppilai/Curry Leaf, 1 Kattu, 15 to 20,2017-2-22
+32,32,32,32,32,32,Pudalangai/Snake gourd 1st Quality, 1, 25 to 35,2017-2-22
+33,33,33,33,33,33,Pudalangai/Snake gourd 2nd Quality, 1, 20 to 30,2017-2-22
+34,34,34,34,34,34,Kothamalli 1st Quality, 1 kattu, 15 to 20,2017-2-22
+35,35,35,35,35,35,Kothamalli 2nd Quality, 1 kattu, 10 to 15,2017-2-22
+36,36,36,36,36,36,Mullangi 1st Quality, 1, 20 to 25,2017-2-22
+37,37,37,37,37,37,Mullangi 2nd Quality, 1, 15 to 20,2017-2-22
+38,38,38,38,38,38,Inji/Ginger, 1, 25 to 30,2017-2-22
+39,39,39,39,39,39,Butter Beans, 1, 120,2017-2-22
+40,40,40,40,40,40,Mutta Kose, 1, 8,2017-2-22
+41,41,41,41,41,41,Pachai Pattani, 1, 25,2017-2-22
+42,42,42,42,42,42,Pakarkai, 1, 25 to 35,2017-2-22
+43,43,43,43,43,43,Nookal, 1, 10,2017-2-22
+44,44,44,44,44,44,Chaw Chaw, 1, 10 to 15,2017-2-22
+45,45,45,45,45,45,Kovakkai, 1, 15 to 20,2017-2-22
+46,46,46,46,46,46,Kothavarangai, 1, 25 to 30,2017-2-22
