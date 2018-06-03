@@ -1,34 +1,34 @@
-Commodity, Weight in Kg, Price in Rs
-Brinjal, 1, 50
-Tomotto ottu, 1, 14
-Ladys Finger, 1, 28
-Snake Guard, 1, 16
-Bitter Gourd, 1, 30
-Bottle gourd, 1, 8
-Pumpkin, 1, 16
-Bean, 1, 64
-Cluster Beans, 1, 16
-Red Chilies, 1, 30
-Onion, 1, 34
-Pallari, 1, 26
-Ginger, 1, –
-Potato, 1, 46
-Radish, 1, 24
-Mango, 1, –
-Cabbage, 1, 20
-Carrot, 1, 44
-Beetroot, 1, 26
-Soybeans, 1, 80
-Drumstick beans, 1, 46
-butter beans, 1, –
-Banana nut, 1 piece, 4
-Banana stem, 1, 8
-Banana Flower, 1, 6
-Curry leaves, 1, 20
-Coriander leaves, 1, 55
-Mint, 1, 30
-Greens Leaves, 1, 10
-Garlic, 1, 100-160
-Button Mushrooms, 1, 180
-Papaya, 1, 14
-SavSav, 1, 24
+,Commodity, Weight in Kg, Price in Rs,date_of_purchase
+0,Brinjal, 1, 50,2014-1-21
+1,Tomotto ottu, 1, 14,2014-1-21
+2,Ladys Finger, 1, 28,2014-1-21
+3,Snake Guard, 1, 16,2014-1-21
+4,Bitter Gourd, 1, 30,2014-1-21
+5,Bottle gourd, 1, 8,2014-1-21
+6,Pumpkin, 1, 16,2014-1-21
+7,Bean, 1, 64,2014-1-21
+8,Cluster Beans, 1, 16,2014-1-21
+9,Red Chilies, 1, 30,2014-1-21
+10,Onion, 1, 34,2014-1-21
+11,Pallari, 1, 26,2014-1-21
+12,Ginger, 1, –,2014-1-21
+13,Potato, 1, 46,2014-1-21
+14,Radish, 1, 24,2014-1-21
+15,Mango, 1, –,2014-1-21
+16,Cabbage, 1, 20,2014-1-21
+17,Carrot, 1, 44,2014-1-21
+18,Beetroot, 1, 26,2014-1-21
+19,Soybeans, 1, 80,2014-1-21
+20,Drumstick beans, 1, 46,2014-1-21
+21,butter beans, 1, –,2014-1-21
+22,Banana nut, 1 piece, 4,2014-1-21
+23,Banana stem, 1, 8,2014-1-21
+24,Banana Flower, 1, 6,2014-1-21
+25,Curry leaves, 1, 20,2014-1-21
+26,Coriander leaves, 1, 55,2014-1-21
+27,Mint, 1, 30,2014-1-21
+28,Greens Leaves, 1, 10,2014-1-21
+29,Garlic, 1, 100-160,2014-1-21
+30,Button Mushrooms, 1, 180,2014-1-21
+31,Papaya, 1, 14,2014-1-21
+32,SavSav, 1, 24,2014-1-21
